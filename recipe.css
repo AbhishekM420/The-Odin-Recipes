@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(172, 245, 245);
+    
+}
+a{
+    text-decoration: none;
+}
+
+li{
+    color: rgb(222, 96, 12);
+}
+footer{
+    font-size: large;
+    text-align: center;
+}
+.chapps{
+    height: 180px;
+    width: 180px;
+    padding: 20px;
+}
